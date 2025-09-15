@@ -1,9 +1,15 @@
 # NextWavAssignment
 this is an assignment for selection process
+
+
 The assignment consists of two parts: 
+
+
 Part 1: 
+
 You are required to prepare a pattern-printing coding question. For this, you should provide 
 solutions in three programming languages: C++, Python, and Java. 
+
 Question: 
 Given a number N, print a layered numeric square pattern of size (2N - 1) x (2N - 1) that 
 creates a square matrix with decreasing layers from outermost to center.  
@@ -29,6 +35,11 @@ Output:
 Part 2: 
 You need to come up with a new graph question, following the same structure as in Part 1, and 
 provide solutions in C++, Python, and Java. 
+
+|Question: 
+	Given a directed graph with V vertices (numbered 0 to V-1) and E edges, 		determine whether the graph contains a cycle. 
+ 	If a cycle exists, print "Yes" followed by the sequence of vertices forming one such cycle. 
+	If there is no cycle, print "No".
 
 Input: 
  
